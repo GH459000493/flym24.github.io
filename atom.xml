@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小白Blog</title>
+  
+  <subtitle>Stay Hungry, Stay Foolish</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.yoursite/"/>
+  <updated>2019-06-27T14:03:57.886Z</updated>
+  <id>https://www.yoursite/</id>
+  
+  <author>
+    <name>fangxin02</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https://www.yoursite/2019/06/27/hello-world/"/>
+    <id>https://www.yoursite/2019/06/27/hello-world/</id>
+    <published>2019-06-27T14:03:57.000Z</published>
+    <updated>2019-06-27T14:03:57.886Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
